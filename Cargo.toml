@@ -8,7 +8,7 @@ license = "MIT"
 description = "A tests for maybe-async-cfg"
 repository = "https://github.com/nvksv/maybe-async-cfg-tests"
 documentation = "https://docs.rs/maybe-async-cfg-tests"
-keywords = [ "tests", "maybe", "async", "futures", "macros", "proc_macro" ]
+keywords = [ "maybe", "async", "futures", "macros", "proc_macro" ]
 
 [lib]
 proc-macro = true
