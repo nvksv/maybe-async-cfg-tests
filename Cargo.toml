@@ -17,7 +17,7 @@ proc-macro = true
 status = "actively-developed"
 
 [dependencies]
-maybe-async-cfg = {path = "../maybe-async-cfg" }
+maybe-async-cfg = "0.2.5"
 proc-macro2 = "1.0"
 quote = "1.0"
 manyhow = { version = "0.11", features = ["syn1"] }
